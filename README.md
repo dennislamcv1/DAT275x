@@ -67,3 +67,16 @@ Sales data for existing customers, consisting of the following fields:
     CustomerID (integer): The unique identifier for the customer.
     BikeBuyer (integer): A Boolean flag indicating whether a customer has previously purchased a bike (1) or not (0).
 
+# Challenge 1: Data Exploration
+
+To complete this challenge:
+
+Download the Adventure Works data files - see previous unit.
+
+Clean the data by replacing any missing values and removing duplicate rows. In this dataset, each customer is identified by a unique customer ID. The most recent version of a duplicated record should be retained.
+
+Explore the data by calculating summary and descriptive statistics for the features in the dataset, calculating correlations between features, and creating data visualizations to determine apparent relationships in the data.
+
+Based on your analysis of the customer data after removing all duplicate customer records, answer the questions below.
+    
+Enter the following summary statistics you calculated for the AveMonthSpend column.
